@@ -18,7 +18,7 @@
 
 ### Github States
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidarzo&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="gifcoding"> 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidarzo&exclude_repo=Sidarzo.github.io&layout=compact&theme=apprentice" alt="Top langs">
 </p>
