@@ -19,8 +19,8 @@
 </p>
 
 ### Github States
-<p align="center" width="25%" height="25%"> 
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="gifcoding"> 
+<p align="center"> 
+  <img  width="25%" height="25%" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="gifcoding"> 
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidarzo&exclude_repo=Sidarzo.github.io&layout=compact&theme=apprentice" alt="Top langs">
