@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/PHP-321637?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/flutter-77B5FE?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/csharp-BA55D3?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=" alt="vuejs">
 
  
 </p>
